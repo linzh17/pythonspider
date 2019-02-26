@@ -1,0 +1,28 @@
+id,name,age
+1001,mike,20
+1002,bob,22
+1003,jorden,21
+id name age
+1001 mike 20
+1002 bob 22
+1003 jorden 21
+id name age
+1001 mike 20
+1002 bob 22
+1003 jorden 21
+id|name|age
+1001|mike|20
+1002|bob|22
+1003|jorden|21
+id|name|age
+1001|mike|20
+1002|bob|22
+1003|jorden|21
+id,name,age
+1001,mike,20
+1002,bob,22
+1003,jorden,21
+id,name,age
+1001,mike,20
+1002,bob,22
+1003,jorden,21
